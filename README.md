@@ -65,5 +65,6 @@
   </CodeSnippet>
 </CodeSnippets>
 ```
-Чтобы использовать сниппет, разместите файл с расширением .snippet по расположению *%USERPROFILE%\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets*. 
-Руководство по [сниппетам](https://docs.microsoft.com/ru-ru/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2019 "Официальное руководство с msdn"). [(доп.)](https://professorweb.ru/my/programs/visual-studio/level2/2_17.php "Руководство на DoctorWeb").
+Чтобы использовать сниппет, разместите файл с расширением .snippet по расположению **%USERPROFILE%\Documents\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets**.  
+
+Руководство по [сниппетам](https://docs.microsoft.com/ru-ru/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2019 "Официальное руководство с msdn"). [(доп.)](https://professorweb.ru/my/programs/visual-studio/level2/2_17.php "Руководство на DoctorWeb")
